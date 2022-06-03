@@ -8,4 +8,4 @@ Raporda yer alan video linki üzerinden genetik algoritmanın c üzerinde nasıl
 
 https://www.youtube.com/watch?v=djHNyB3Qyb0&t=2s&ab_channel=TeknoV%C4%B0A
 
-Abdulkadir TÜRE
+
