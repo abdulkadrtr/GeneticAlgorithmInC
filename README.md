@@ -8,7 +8,7 @@ Raporda yer alan video linki üzerinden genetik algoritmanın C üzerinde nasıl
 
 Rapor içeriğinde genetik algoritmanın diğer arama algoritmalarıyla kıyaslanmasına, kodun çalışma çıktılarına, genetik algoritmanın parametrelerine bağlı olarak zaman karmaşıklığı analizlerine yer verilmiştir.
 
-## Youtube Proje Tanıtım videosu
+## Youtube Proje Tanıtımı
 https://youtu.be/djHNyB3Qyb0
 
 
